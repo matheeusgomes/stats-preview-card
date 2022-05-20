@@ -30,16 +30,16 @@ h1, h3 {
 }
 
 .imagem {
-    background-image: url(images/image-header-desktop.jpg);
+    background: linear-gradient( rgba(170, 92, 219, 0.4), rgba(170, 92, 219, 0.4)), url(images/image-header-desktop.jpg);
     background-repeat: no-repeat;
     width: 500px;
-    height: 400px;
+    height: 405px;
     border-top-right-radius: 7px;
     border-bottom-right-radius: 7px;
 }
 
 span {
-    color: hsl(277, 64%, 61%);
+    color: rgb(170, 92, 219);
 }
 
 .left {
