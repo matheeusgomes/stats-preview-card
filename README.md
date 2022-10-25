@@ -1,6 +1,6 @@
 # Stats Preview Card
 
-Desafio do FrontendMentor. 
+Desafio do Frontend Mentor. 
 
 Linguagens utilizadas: 
 <img align="center" alt="HTML" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
